@@ -1,12 +1,12 @@
 {
   "author": "Mike Heffner <mike@librato.com>",
-  "name": "statsd-librato-backend",
-  "description": "A StatsD backend for Librato Metrics",
+  "name": "@academia/statsd-librato-backend",
+  "description": "Fork of librato/statsd-librato-backend",
   "version": "0.1.7",
-  "homepage": "https://github.com/librato/statsd-librato-backend",
+  "homepage": "https://github.com/academia-edu/statsd-librato-backend",
   "repository": {
     "type": "git",
-    "url": "git://github.com/librato/statsd-librato-backend.git"
+    "url": "git://github.com/academia-edu/statsd-librato-backend.git"
   },
   "keywords": [
     "librato",
