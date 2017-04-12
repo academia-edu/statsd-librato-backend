@@ -1,6 +1,6 @@
 {
   "author": "Mike Heffner <mike@librato.com>",
-  "name": "@academia/statsd-librato-backend",
+  "name": "academia-statsd-librato-backend",
   "description": "Fork of librato/statsd-librato-backend",
   "version": "0.1.7",
   "homepage": "https://github.com/academia-edu/statsd-librato-backend",
